@@ -17,4 +17,5 @@
 [submodule "vendor/StackWalker"]
 	path = vendor/StackWalker
 	url = https://github.com/JochenKalmbach/StackWalker
+	branch = 1.20
 	ignore = dirty
